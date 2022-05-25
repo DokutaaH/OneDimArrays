@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One-dim arrays", "One-dim arrays\One-dim arrays.csproj", "{97248E34-1788-4BF9-BCA2-9E440FCE1C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97248E34-1788-4BF9-BCA2-9E440FCE1C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97248E34-1788-4BF9-BCA2-9E440FCE1C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97248E34-1788-4BF9-BCA2-9E440FCE1C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97248E34-1788-4BF9-BCA2-9E440FCE1C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8173E50-930B-4D72-8E5E-9D266B785CB6}
+	EndGlobalSection
+EndGlobal
